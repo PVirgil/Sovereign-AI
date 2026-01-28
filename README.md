@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-
-
----
-
 ## 🧠 Key Features
 
 | Module                | Description |
